@@ -1,11 +1,11 @@
-About r-ghostknockoff
-=====================
+About r-ghostknockoff-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ghostknockoff-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=GhostKnockoff
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ghostknockoff-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for multiple knockoff inference using summary statistics, e.g. Z-scores. The knockoff inference is a general procedure for controlling the false discovery rate (FDR) when performing variable selection. This package provides a procedure which performs knockoff inference without ever constructing individual knockoffs (GhostKnockoff). It additionally supports multiple knockoff inference for improved stability and reproducibility. Moreover, it supports meta-analysis of multiple overlapping studies.
 
